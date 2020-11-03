@@ -1,0 +1,913 @@
+{
+  "catalogue": {
+    "name": "Piraten",
+    "id": "4b1d-9b06-f455-1676",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "0f58-b8f9-caf7-1889",
+    "gameSystemRevision": 14,
+    "library": false,
+    "revision": 7,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "La Pelotera",
+        "id": "6fcf-c863-bf87-6af3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6484-5ac6-c301-11b8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Baron Conchita",
+        "id": "9afe-2dc8-cbdb-572f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0e9e-d630-08c1-0a07",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Moja Alga",
+        "id": "5f57-49a9-da92-b281",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "88fd-cd02-fe2a-ed4f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hanna Solare",
+        "id": "8298-98ee-50d9-4a1b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c84e-6719-64e7-b2c8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Barkaza",
+        "id": "ed24-49e9-f731-227d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b1d3-dc08-1067-5dee",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Piñassa",
+        "id": "febc-e88e-3bf9-3b87",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4ab9-5d4a-6011-c976",
+        "type": "selectionEntry"
+      },
+      {"name": "Yola", "id": "569a-e34a-aec8-3deb", "collective": false, "hidden": false, "import": true, "targetId": "befe-6420-f9cf-ccb9", "type": "selectionEntry"},
+      {
+        "name": "Madam Gorgonne",
+        "id": "d2b3-ca0b-b2ae-115b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5603-844a-365b-b710",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Rattenschwarm",
+        "id": "e537-a358-5fc1-54ed",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fa17-a3e7-4e4b-dd64",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Mrs. Juanhijo",
+        "id": "a56c-a1ed-1f9c-051a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "be3e-f33a-0bda-302a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Fidanzata",
+        "id": "8b4c-684c-d7d1-5f0e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d696-d4ee-23ed-442a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Lillith",
+        "id": "e0a3-3051-1f4f-fb4d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4d22-05d8-942c-2a1d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Eugenie",
+        "id": "d8ee-7030-e0d6-1fb7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "70ca-a3b5-d738-d823",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Buscar",
+        "id": "241b-ef7c-d86b-565b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0b87-d810-d98a-2a1e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Crazy Perez",
+        "id": "e2f9-58c3-daca-ecba",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "01cf-aadd-1999-27f7",
+        "type": "selectionEntry"
+      },
+      {"name": "Lobo", "id": "7b39-65e5-8967-d108", "collective": false, "hidden": false, "import": true, "targetId": "8bef-cb67-9f03-7a9e", "type": "selectionEntry"},
+      {
+        "name": "Schwalbe",
+        "id": "20ac-3325-c698-8355",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1773-bd90-c46a-0d03",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ibubesi",
+        "id": "8022-8bbe-2e8e-351d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ef79-39e0-1ba6-038a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Montero Guaca",
+        "id": "a1b5-54c5-74a7-d980",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "126c-4174-a210-fc69",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Theresa",
+        "id": "b4e3-97da-bc03-75bc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3ab9-4d52-7feb-a068",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Liname",
+        "id": "bd9e-2f85-8c13-e236",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0530-696e-1b58-ac77",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Senor Conejo",
+        "id": "b83e-b3ee-115f-b2cd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c16b-f4f4-a6bb-a8c0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Farrador",
+        "id": "4750-3b16-172f-5f78",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c5c6-200f-15de-a108",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "El Curandero",
+        "id": "f3dc-8d5c-eb7c-5e8a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "818f-4ca7-47e1-7dec",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Capitana Roja",
+        "id": "6360-18df-fa9c-6ee0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "38d1-8edd-f89e-a2e5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Lindo Guapo",
+        "id": "2808-bda7-e704-3393",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4861-fdbb-5ed2-f6e1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Wild Ox •",
+        "id": "4cee-4cad-aa30-c338",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "cccf-2e26-547d-d777",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Estrella Nocturna",
+        "id": "e247-95d7-91c0-541e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "430a-cd12-3696-d772",
+        "type": "selectionEntry"
+      },
+      {"name": "Eitu", "id": "51ff-3894-ce54-8be0", "collective": false, "hidden": false, "import": true, "targetId": "d885-4599-55bd-51a8", "type": "selectionEntry"},
+      {
+        "name": "Fornido",
+        "id": "7d6b-3069-9bc5-9d30",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "52f8-2f5e-1f97-1704",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Clara Cadora",
+        "id": "b59d-a6bf-937c-a102",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "345c-b792-afd3-c85a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Brahyn",
+        "id": "c2fc-cd95-74ea-f2fe",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "dcbe-7362-cb94-ef02",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Senora Ya Va",
+        "id": "f328-1011-0ce8-a9d5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "679d-c93d-5f95-b1b4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Don Pavo",
+        "id": "a704-65fd-063b-0dd7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5002-604a-ad71-924c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Wolfgang",
+        "id": "13a6-fadb-6adf-987a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "50f7-f0e7-2d4b-b66f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "El Grandulon",
+        "id": "af23-be84-a850-0a50",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2ffa-c715-dc1e-74ba",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Franjo",
+        "id": "1b90-169b-6c86-3fac",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9688-63e2-b1fb-91fa",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Regicide †",
+        "id": "462d-3de1-2d6e-4c34",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5cf7-81a5-a093-69e2",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Captain Dèzette †",
+        "id": "16ca-4062-004e-6ad1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f453-6d2d-75a5-1704",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Kapitän Rosso †",
+        "id": "57c0-a9d8-66e1-3466",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c6a8-3af2-e95c-d2ae",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Barco Malcaduco †",
+        "id": "3265-6edd-d724-1694",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f497-3d01-60e8-36c3",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Pirate Queen †",
+        "id": "d498-17e6-ccf9-010b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d2ed-af6b-4647-dd4c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tiradora",
+        "id": "c3df-9229-69ff-8d7a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d5a7-d72c-3d19-f3e9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cuchillo",
+        "id": "7df5-9870-b1b2-1238",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0e22-77ad-bfeb-6d3c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Seemann",
+        "id": "f66c-aa21-44dd-085e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c4b9-f50b-94ae-86f0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Piratin",
+        "id": "4d95-4b6c-2b4d-6a67",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "df9e-7365-16e1-6119",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Matelots",
+        "id": "dfe7-74fa-871e-93c5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b13b-cc40-eca0-9a76",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Curly Ann",
+        "id": "1125-ad72-7047-fdfc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5c9b-95a7-87f6-ac22",
+        "type": "selectionEntry"
+      },
+      {"name": "Krud", "id": "f3d8-b56c-0e41-5500", "collective": false, "hidden": false, "import": true, "targetId": "1af2-0857-0050-6836", "type": "selectionEntry"},
+      {
+        "name": "Ex Käpt´n Jack",
+        "id": "37d3-5dec-2b6a-7322",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4514-bd51-5f97-2d1d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Spitfire",
+        "id": "262e-3956-4de3-d0be",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e400-ec13-08ff-1b02",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Long John",
+        "id": "270d-254a-30b4-2863",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9a12-dae5-5f26-8875",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Big Jenny",
+        "id": "59a0-d5ae-60a2-2f26",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1c08-7a4f-0e09-5585",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Piedro der Wirt",
+        "id": "8506-3791-b6a1-1323",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "89d6-ad63-f29f-6668",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Casimir Flynn",
+        "id": "3ab4-4105-7e7e-f5e5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "eea6-1738-89cc-f931",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "The Lady",
+        "id": "2bb6-88e8-d30b-d912",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a168-3506-b87e-f123",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Blackbeard",
+        "id": "13f0-4c78-8da4-f12d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "177f-b0ed-863a-69df",
+        "type": "selectionEntry"
+      },
+      {"name": "Mono", "id": "6574-a091-fba0-bde9", "collective": false, "hidden": false, "import": true, "targetId": "934e-e7f7-4300-97a2", "type": "selectionEntry"},
+      {
+        "name": "Defora Waits",
+        "id": "9b2a-3ccf-a191-f5ac",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2435-aa26-33b6-6e89",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "El Enterrador",
+        "id": "8ca5-10ec-0899-a9d3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "984b-1dd4-3f52-9272",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Defty Jim",
+        "id": "4ee2-f3a5-e54b-3104",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8ee0-64a8-dc82-57f1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schwarzer Nick",
+        "id": "2714-eb5e-5ac5-203b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1e55-7da2-2c91-58b2",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Little Pete",
+        "id": "1cf9-82f2-d94a-01fe",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8efb-5e84-74a6-7509",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cortante •",
+        "id": "ff60-08a4-941e-9870",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d064-8ec3-bf62-e281",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Captain Dèzette •",
+        "id": "f17f-fb8f-0c83-310a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "98e7-050b-da3f-a69f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Victoria Innsfoot",
+        "id": "938f-820f-2b05-2ba0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8eb9-cd4b-969d-789c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Jebedaja Bowyn #1",
+        "id": "c2e3-60b7-3e75-19db",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fb40-5a33-3dde-fee6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Zombie Oktopus #1",
+        "id": "0314-d4e2-2c77-416c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7b5d-d73d-9b39-2a93",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Rubio",
+        "id": "6172-a45b-ddef-6f4c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f959-84b5-66f3-7153",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Lieutenant Krud",
+        "id": "b169-af19-e976-6530",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9517-6572-2212-7c3b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Carly Wench",
+        "id": "2d55-cd20-33ab-5413",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8688-b4f0-8971-a664",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Blanche Pascal",
+        "id": "3b6e-add7-eae4-dbb0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "bacb-f5c8-0b72-e10a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Pirraqua",
+        "id": "0cbd-9d3a-16d2-c717",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0e7e-9889-89b4-710c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Canoa",
+        "id": "778f-9314-4f05-26bc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "770d-d204-6d15-b62c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Xalupe",
+        "id": "a79e-dfd0-1e8e-d6fa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "efaf-7b8b-c734-ccf1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Sansame",
+        "id": "b1b9-ad04-7c2a-0a8a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1674-536b-8f65-4a26",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cuchillo (Ehrengarde)",
+        "id": "8ffb-c670-c1fb-f1e4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8098-97fb-cb2d-5b81",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "La Hoja",
+        "id": "59ce-3c59-a1e1-5346",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6f5c-ff0f-ded8-307d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Drunken Ivar",
+        "id": "d659-c7dc-f794-7d8f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d1f2-2645-3168-a75f",
+        "type": "selectionEntry",
+        "costs": [{"name": "Dublonen", "typeId": "3e2b-74a8-7713-6552", "value": 50}]
+      },
+      {
+        "name": "Milagroso •",
+        "id": "d005-0c9b-3a00-7628",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "429b-7e71-0fbd-5647",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Anqui",
+        "id": "c467-2f8b-b598-de42",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "365d-54e7-0bca-a9a4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tessa Polverade",
+        "id": "0516-a87a-c85e-6e55",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fd64-5b3b-933d-9a7e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Toledo de Alvarez",
+        "id": "748b-9c1f-fae5-08da",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "04f6-803e-dd04-2a07",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Furry",
+        "id": "8cad-5e04-51e9-f8c6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "02a9-884f-b653-f04c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Antoinette Balfour",
+        "id": "e8ff-89e1-b1eb-55fb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f11e-f505-691d-233c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Capitaine Octavia •",
+        "id": "99bd-7ebe-4ce2-48e4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d0a3-7058-62ff-5cb6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Qualani",
+        "id": "7fb5-4c62-4431-286a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1bf7-4be7-810b-a87b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Donja Esperanza",
+        "id": "de19-67f3-11f8-9249",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "46b8-b8cf-e3e0-216a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gunpowder Mary",
+        "id": "a9e2-15f0-a026-724b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e3ce-34ff-bd37-0705",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Drecksack",
+        "id": "d0a6-a0a3-8359-8a7c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "86d4-7dfe-e7c4-03b1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Antoinette Balfour episch",
+        "id": "8c3f-a3a5-f632-a433",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "75ac-2613-7607-214b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gipsy",
+        "id": "d3ec-f996-22bd-4c01",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "82b3-03dd-0930-ca4f",
+        "type": "selectionEntry"
+      },
+      {"name": "Tufo", "id": "cf69-0a5e-6544-dd91", "collective": false, "hidden": false, "import": true, "targetId": "9a0a-d73e-97d5-2bd4", "type": "selectionEntry"},
+      {
+        "name": "Calamite Balfour P",
+        "id": "e6bf-e6f8-eab1-944b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7a7e-7fda-cd32-1b0b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Calamite Balfour episch P",
+        "id": "2a1b-2ab7-4d94-fa1f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b525-ace3-e49b-878d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chassa",
+        "id": "7938-8f97-2fd8-a31c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "648a-e668-04a2-7427",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chassa episch",
+        "id": "9521-e1ab-a09e-ba4f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4437-32d7-24de-601d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Virgo Despedad Saufeder",
+        "id": "0934-9a1e-8dce-f6e7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "003f-4215-269b-5e8c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Virgo Despedad epic",
+        "id": "7ce9-4f3c-8dfa-3d1e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "43f4-549b-1da5-5ccd",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Virgo Despedad",
+        "id": "71e5-9abd-7a2e-e364",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f913-5a83-0515-6505",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Virgo Despedad Muskete",
+        "id": "7f15-2e46-402c-2f17",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "178b-8b2e-c246-60ce",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Le Dingue •",
+        "id": "10d1-0e82-0c6a-8043",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c348-c515-e63b-2afc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hugo •",
+        "id": "ced7-816c-0e89-f297",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5238-0d56-ecdf-eab2",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Isabella Inizia •",
+        "id": "b86f-6448-f3eb-7487",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c1a9-d02f-7396-2299",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Arrr´chibald",
+        "id": "58c1-abad-5694-ea19",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "337d-8be9-d205-06d1",
+        "type": "selectionEntry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "catalogue": {
+    "name": "Amazonen",
+    "id": "8f34-cf91-6f72-ae5f",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "0f58-b8f9-caf7-1889",
+    "gameSystemRevision": 14,
+    "library": false,
+    "revision": 8,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Pehua",
+        "id": "50ec-08fc-17f8-4aee",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "391e-7714-fc5f-02a8",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "Anführerin", "id": "db09-dc85-11e6-00c7", "hidden": false, "primary": true, "targetId": "e40b-1a54-0143-fcee"}]
+      },
+      {
+        "name": "Matqueh",
+        "id": "5a6a-fabe-1336-25f6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1475-a8b4-60eb-8751",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Matqueh (Ehrengarde)",
+        "id": "7b7f-5954-1ea9-2322",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c329-d7be-6519-2837",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Clara Cadora",
+        "id": "68a3-3860-f7e5-6cc9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "345c-b792-afd3-c85a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Totol",
+        "id": "413e-b1b5-262f-c0e4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3e83-bb1e-72b7-4709",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Canoa",
+        "id": "76ae-1b08-cb50-1864",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "770d-d204-6d15-b62c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Marshalla Silvie",
+        "id": "a210-3591-0064-071b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d6a2-27ba-b9ff-735d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Senora Ya Va",
+        "id": "f605-2826-72c4-388c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "679d-c93d-5f95-b1b4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tepoloa",
+        "id": "0ce3-d561-ee8c-bffd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8d78-2538-8992-46f4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Yolcameh",
+        "id": "73b2-667c-3d4b-9389",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1e3c-86ff-7351-20e5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Xicoa",
+        "id": "1f08-68a8-d56b-5ab8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "32c7-0814-cf73-ca08",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cauyacatl",
+        "id": "d88a-2dfb-ba4e-8351",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1899-b20c-9d3b-018d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Atl-Atl",
+        "id": "9a94-0a80-139c-550a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c783-a9fb-6cb5-604f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tempelwächterin (Ehrangarde)",
+        "id": "7a00-13c0-3c5a-d447",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ec09-48be-16c9-3fa7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chicomeh (Ehrahngarde)",
+        "id": "2d30-1290-e839-a69e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d99f-7e27-af5b-9e46",
+        "type": "selectionEntry"
+      },
+      {
+        "name": " Atl-Atl (Ehrengarde)",
+        "id": "7968-aa7e-b5c0-c4c1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "63c2-1a1d-a23b-155b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chicomeh",
+        "id": "c100-ad0a-1e5e-4413",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b718-8b40-aa20-c26a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tempelwächterin",
+        "id": "243c-b12e-729e-1e67",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b91f-feb1-ad55-e5bb",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tocatl",
+        "id": "112a-c2fc-ddfc-a7d8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5a99-c0be-caf8-408a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tecuani",
+        "id": "b3b1-320f-8afa-5e1b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "eefe-96e6-935f-c101",
+        "type": "selectionEntry"
+      },
+      {"name": "Onca", "id": "8269-e229-70d1-4517", "collective": false, "hidden": false, "import": true, "targetId": "8b41-e065-9786-0dbf", "type": "selectionEntry"},
+      {
+        "name": "Occepa",
+        "id": "e573-4e5c-ab50-60d3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b0d2-cd28-e816-c0b1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tzinaka",
+        "id": "62d9-c45f-19f8-3f71",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "167e-1576-0572-1cda",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Canita",
+        "id": "21a2-0ddf-bcea-85f0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e0cc-f98e-f71d-c93c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ozomatli",
+        "id": "a58e-88e1-2709-b38a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a9db-4e65-15a0-950f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Yachakuq",
+        "id": "052b-b679-9b71-5967",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e5a0-3ece-39e0-1fa4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tamazolli",
+        "id": "55d3-d3f7-95b2-a368",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c161-619a-ef4f-d8a6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Beameh",
+        "id": "2a4f-fd0a-c455-0b6e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "063e-9c9a-b9c0-0462",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Macati",
+        "id": "6c51-d59d-e400-38d9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1c03-4430-a9b7-7447",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Nenetzin",
+        "id": "d45f-be7f-6d64-934b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ca02-5796-f747-c1b5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tapayaxin",
+        "id": "0902-ac66-dc5a-7e4e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8b38-75a4-5776-787a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Cuamotla",
+        "id": "6fe7-057f-a0e5-08bd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3379-b6a8-676c-7ab7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tetecuinoa",
+        "id": "0a64-7f3e-a490-9a40",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0d04-9a7a-fbb4-d700",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "La Pelotera",
+        "id": "739b-fb04-c40a-86f8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6484-5ac6-c301-11b8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hanna Solare",
+        "id": "caf3-b3eb-7a7f-566c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c84e-6719-64e7-b2c8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Moja Alga",
+        "id": "9db9-c7d2-0af2-95d1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "88fd-cd02-fe2a-ed4f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Capitana Roja",
+        "id": "098f-8e38-81f9-772e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "38d1-8edd-f89e-a2e5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Crazy Perez",
+        "id": "b316-ee2c-4e60-43bd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "01cf-aadd-1999-27f7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Lillith",
+        "id": "e7a4-9936-3347-a8b9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4d22-05d8-942c-2a1d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schwalbe",
+        "id": "325d-d89c-7382-e137",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1773-bd90-c46a-0d03",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Liname",
+        "id": "fd45-88cd-ea89-b5ba",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0530-696e-1b58-ac77",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Eugenie",
+        "id": "5d2c-ee9b-58ef-cd65",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "70ca-a3b5-d738-d823",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Theresa",
+        "id": "e7b5-72b4-3863-a4e7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3ab9-4d52-7feb-a068",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Estrella Nocturna",
+        "id": "9abf-c6af-170a-d331",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "430a-cd12-3696-d772",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Brahyn",
+        "id": "4fdb-4c0f-e2b8-6e48",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "dcbe-7362-cb94-ef02",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Madam Gorgonne",
+        "id": "98a5-8c29-b77a-6eab",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5603-844a-365b-b710",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Fidanzata",
+        "id": "8a7d-73f8-76d9-5f23",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d696-d4ee-23ed-442a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Mrs. Juanhijo",
+        "id": "487e-36c6-891a-5ffe",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "be3e-f33a-0bda-302a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Baron Conchita",
+        "id": "fac9-70d1-c219-ee40",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0e9e-d630-08c1-0a07",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Rattenschwarm",
+        "id": "d3fd-37e1-dff8-2a0b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fa17-a3e7-4e4b-dd64",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Piraqua",
+        "id": "01df-b81f-36db-b697",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0e7e-9889-89b4-710c",
+        "type": "selectionEntry"
+      },
+      {"name": "Yola", "id": "b2aa-b7cb-ef1f-72c7", "collective": false, "hidden": false, "import": true, "targetId": "befe-6420-f9cf-ccb9", "type": "selectionEntry"},
+      {
+        "name": "Xalupe",
+        "id": "1b66-3319-c711-991d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "efaf-7b8b-c734-ccf1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Franjo",
+        "id": "33fb-9a52-9967-80f7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9688-63e2-b1fb-91fa",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Captain Dèzette •",
+        "id": "ebae-1cd8-2fa4-c744",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "98e7-050b-da3f-a69f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Victoria Innsfoot",
+        "id": "3568-71fb-b26e-4224",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8eb9-cd4b-969d-789c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Carly Wench",
+        "id": "ec88-672d-b427-314b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8688-b4f0-8971-a664",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Piñassa",
+        "id": "91eb-38fc-3baf-9d20",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4ab9-5d4a-6011-c976",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Barkaza",
+        "id": "65a6-a5f8-77b3-1b91",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b1d3-dc08-1067-5dee",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Sansame",
+        "id": "43c2-2c46-820b-6fcf",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1674-536b-8f65-4a26",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Quecholli",
+        "id": "8548-e7fd-590c-c732",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "bbe1-77cb-3159-0dc9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Quamitzli",
+        "id": "989b-beca-9757-9682",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6405-77d0-f585-71b4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Anqui",
+        "id": "53c3-5a54-c5c8-c80a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "365d-54e7-0bca-a9a4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tessa Polverade",
+        "id": "a6ab-52e6-0fd9-3024",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fd64-5b3b-933d-9a7e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Donja Esperanza",
+        "id": "8ea1-ce29-a57a-1164",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "46b8-b8cf-e3e0-216a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Capitaine Octavia •",
+        "id": "3c9b-4287-509c-ecf5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d0a3-7058-62ff-5cb6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Qualani",
+        "id": "34e5-5549-99dc-4a0d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1bf7-4be7-810b-a87b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ixchelcoatl",
+        "id": "ff14-e601-22ab-93c4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f588-5c46-c3e7-ee66",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gunpowder Mary",
+        "id": "1c66-fe91-7d62-5bd4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e3ce-34ff-bd37-0705",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ixchelcoatl episch",
+        "id": "d8d0-73bf-c250-20b1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6b55-f702-7510-8772",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gefiederte Schlange",
+        "id": "169b-2d01-da5f-60e8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ed3e-96cd-00f7-19fd",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gipsy",
+        "id": "cc72-dd43-37bc-c3f8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "82b3-03dd-0930-ca4f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chassa episch",
+        "id": "c7c8-7fd7-0ff6-734d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4437-32d7-24de-601d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chassa",
+        "id": "4a83-8038-78ea-06e1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "648a-e668-04a2-7427",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Belle Satine •",
+        "id": "2ec0-3539-ca9a-892c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d8b7-59db-5953-e422",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Turituri",
+        "id": "6df4-f82e-27bb-3e06",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "177a-6b5f-8cc0-856d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Taurekareka",
+        "id": "5be1-c4a5-fa24-bc3d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1bf0-21d8-69c1-cb9d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Isabella Inizia •",
+        "id": "5ca2-5fde-9359-636d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c1a9-d02f-7396-2299",
+        "type": "selectionEntry"
+      }
+    ]
+  }
+}
