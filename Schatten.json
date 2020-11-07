@@ -1,0 +1,290 @@
+{
+  "catalogue": {
+    "name": "Schatten",
+    "id": "ecd5-8eda-3dfb-bce1",
+    "authorName": "Kuina",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "0f58-b8f9-caf7-1889",
+    "gameSystemRevision": 14,
+    "library": false,
+    "revision": 2,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Flüsterer",
+        "id": "15fe-c3c2-5301-5f9f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9036-151a-f883-7d87",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Banshee",
+        "id": "4765-22f3-22ac-3b7d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0226-cfdc-4e8e-8d58",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schemen",
+        "id": "f907-ca80-629a-deea",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "277e-238c-16da-9b8c",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dunkler Pirat",
+        "id": "f22c-55eb-cc3f-ee5d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "79e5-c4ed-2818-78dd",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schleicher",
+        "id": "c5d9-4a95-3ee5-f482",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c0c2-5b95-5ef7-6e13",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "† Phantom ",
+        "id": "4455-d329-2886-6221",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5a21-488d-424d-1032",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Evil Moby",
+        "id": "f2bd-7c6a-86b7-ce38",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ec46-f371-28cf-425a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hirte",
+        "id": "fc7a-1f36-da92-6011",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d226-c9ca-555a-14ee",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Todesfee",
+        "id": "d314-3d5f-ae28-d174",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ed80-80e7-137c-97f5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schwarze Witwe",
+        "id": "a246-1859-ea10-b467",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "bcde-14d2-2552-4ef1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schattentor",
+        "id": "c165-2f8f-28af-f2ad",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c0a1-dd9b-a6f7-8dbf",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Isabella Caduto",
+        "id": "fce4-4545-353c-d88c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c3aa-e5ff-9cc0-c4f6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Tierische Urgewalt",
+        "id": "8ba6-50f7-03f6-6138",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1e8a-e542-ccb6-e13b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schreckensmaid",
+        "id": "40e2-2ccf-cff8-0c81",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2c92-e70a-46a6-1421",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Rattenkönigin",
+        "id": "a919-23d4-6615-24fd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9651-e964-7dec-ffd7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Schattenschwarm",
+        "id": "19d4-64c8-b7d6-921b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "424e-1c75-a370-90b4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Falscher Affe",
+        "id": "b2f9-5243-909c-9192",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "642f-b672-4c8a-b417",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Nebelwolf",
+        "id": "9a1c-dcd8-0cee-b753",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "706f-075d-a376-52ec",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Nachtklinge",
+        "id": "e9e8-263d-16a3-5d50",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b3eb-72d0-6818-0f78",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gewitterfürst",
+        "id": "c6da-3b26-5f2b-452c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5b39-b5bb-df25-81a8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Bibliothekar",
+        "id": "ad52-fe4f-baca-c728",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5ada-e187-14bb-a3b5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Galion",
+        "id": "82c3-3062-c106-86aa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fa20-1f44-e190-27bc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Vogelscheuche",
+        "id": "c549-f8c3-6e28-7dda",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "93e6-d06e-6765-d0b0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Asorpressa",
+        "id": "a22d-16dc-913e-0fe4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "05d6-a653-4324-ce54",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Torwächter",
+        "id": "68d5-d77b-df6b-31f3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4a32-4364-10bd-80fc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Irrlicht",
+        "id": "0a3c-7d1c-c268-1ad6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "23bf-ee2b-c168-e443",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chicos Alptraum",
+        "id": "fdef-1138-4aec-8d6b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a193-4e16-1c62-a385",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Kelpie",
+        "id": "8d15-d9f8-64e1-ba68",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e20d-0145-827e-5392",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Falscher Affe (Ehrengarde)",
+        "id": "8048-983e-b2e3-f70a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ecb4-cacb-259d-68a0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dimensionstore",
+        "id": "242e-7e68-1ab7-245e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "907d-f581-c986-3420",
+        "type": "selectionEntry"
+      },
+      {"name": 1, "id": "f067-9a35-d1c1-30d6", "collective": false, "hidden": false, "import": true, "targetId": "f945-925c-3909-b137", "type": "selectionEntry"},
+      {"name": 2, "id": "07f5-e7c6-cd6f-9aca", "collective": false, "hidden": false, "import": true, "targetId": "e706-058c-b2b1-330c", "type": "selectionEntry"},
+      {"name": 3, "id": "ac12-8334-8336-c0d0", "collective": false, "hidden": false, "import": true, "targetId": "c0cb-b5bf-b9d7-737b", "type": "selectionEntry"},
+      {"name": 4, "id": "80f8-5f4a-a5c3-ff5c", "collective": false, "hidden": false, "import": true, "targetId": "1992-b913-31a9-19c4", "type": "selectionEntry"}
+    ]
+  }
+}
