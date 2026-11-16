@@ -1,44 +1,26 @@
-﻿Freebooter´s Fate #2
-=================
+# Freebooter´s Fate #2 data
 
-Bug-Report:
+Army list data files for Freebooter´s Fate #2.
 
-https://discord.gg/deVyWbg
+> **Community rehost.** These files were written by the community contributors listed below and were previously published at `github.com/BSData/freebooters-fate`, which is no longer online. This copy keeps them available and open to updates.
+>
+> They are not made, maintained or endorsed by NewRecruit. Nobody here is affiliated with or endorsed by the publisher of Freebooter´s Fate #2. All game names and trademarks belong to their respective owners. You still need the official rules to play.
 
+## Is this maintained?
 
+It is open for updates, not archived. It is kept up by whoever contributes to it, so check the commit history to see how current it is. Last data change before the rehost: 2020-11-07.
 
-#### Version ####
+## How to update it
 
-2.14.3 Schatten ausrüstet, Bugfix, Söldner ind OLHG geändert
+- **Pull request:** fork this repository, make your changes and open a pull request.
+- **Write access:** if you want to maintain this game, ask on the NewRecruit Discord: https://discord.gg/cCtqGbugwb
 
-2.14.0 Schatten haben sich reingeschliechen, Oktober 2020
+## File format
 
-2.13.0 Div Charaktere
+The files are JSON, converted on 2026-11-16 from the original BattleScribe XML (`.cat`/`.gst`). The XML versions are in the git history before that commit.
 
-2.4.2 Ausrüstungauswahl an Regeln angepasst
+## Authors
 
-2.4.1 Bugfix Heuer angepasst
+From the git history of the data files:
 
-2.4.0 Finka Junior added
-
-2.3.0 Legendäres Update, weiter Lim und Spe added
-
-2.2.2 Loa kosten korrigiert
-
-2.2.1 Alle für einen Kategorie eingeführt, La Gauche komplettiert
-
-2.2.0 Alle Charaktere nachgepflegt, Ausrüstung hinzugefügt, Schatten Beta sind aufgetaucht.
-
-2.1.0 La Hoja, Quechollie, Treville hinzugefügt. Bugfix.
-
-2.0.2 Punkt in Dublonen geändert.
-
-2.0.1 Sansame und Seelentreiber angepasst.
-
-2.0.0 Realeas. Kult added.
-
-0.1.1 Boote angepasst
-
-0.1 Beta Releas. Kult Charaktere fehlen noch (in Arbeit)
-    
-
+- Kuinasan
